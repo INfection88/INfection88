@@ -26,8 +26,8 @@
 <p align = "center">
   <a href = "https://www.instagram.com/itsjusttauriq/" />
     <img src = "https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40"/>
-   <a href = "https://www.instagram.com/itsjusttauriq/" />
-    <img src = "https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40"/>
+   <a href = "https://discord.com/channels/@me" />
+    <img src = "https://skillicons.dev/icons?i=disocrd" alt="Discord" width="40" height="40"/>
   
   
   
