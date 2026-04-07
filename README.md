@@ -15,7 +15,7 @@
 <p align="center">
   <img src = "https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
   <img src = "https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
-   <img src = "https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
+   <img src = "https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> &nbsp; &nbsp;
     <img src = "https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
      <img src = "https://skillicons.dev/icons?i=vim" alt="VIM" width="40" height="40"/>
       <img src = "https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" width="40" height="40"/>
@@ -26,6 +26,9 @@
 <p align = "center">
   <a href = "https://www.instagram.com/itsjusttauriq/" />
     <img src = "https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40"/>
+   <a href = "https://www.instagram.com/itsjusttauriq/" />
+    <img src = "https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40"/>
+  
   
   
   
