@@ -1,4 +1,11 @@
-## Hi there 👋
+<style> 
+  body { 
+      background-colour: grey;
+  }
+</style>
+
+
+<div style="text-align: center;" > Hi there 👋 I'm Tauriq Petersen</div>
 
 <!--
 **INfection88/INfection88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
