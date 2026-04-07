@@ -3,6 +3,11 @@
 <h2 align="center" > 🚀 About me </h2>
 <p>
   I'm a second year CS and AI student spending the majority of my time fixing my poorly written python and java code :(
+
+  ```python
+   def Hello:
+    HelloWorld("Print")
+```  
 </p>
 
 <h2 align="center"> 🔭  Skills and tools </h2>
@@ -16,6 +21,14 @@
       <img src = "https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" width="40" height="40"/>
 
 <h2 align="center"> 📫 Socials </h2>
+<p align="center"> Find me on these socials if you wish to network/collaborate with me! </p>
+
+<p align = "center">
+  <a href = "https://www.instagram.com/itsjusttauriq/" />
+    <img src = "https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40"/>
+  
+  
+  
   
   
   
