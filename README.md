@@ -19,12 +19,14 @@
 <h2 align="center"> 📫 Socials </h2>
 <p align="center"> Find me on these socials if you wish to network/collaborate with me! </p>
 
-<p align = "center">
-  <a href = "https://www.instagram.com/itsjusttauriq/" />
-    <img src = "https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40"/> &nbsp;
-   <a href = "mailto: tauriqp88@gmail.com" />
-     <img src = "https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/> &nbsp;
-  
+<p align="center">
+  <a href="https://www.instagram.com/itsjusttauriq/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
+  </a>
+  <a href="mailto:tauriqp88@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+  </a>
+</p>
   
   
   
