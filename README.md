@@ -13,12 +13,8 @@
 <h2 align="center"> 🔭  Skills and tools </h2>
 
 <p align="center">
-  <img src = "https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
-  <img src = "https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
-   <img src = "https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> &nbsp; &nbsp;
-    <img src = "https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
-     <img src = "https://skillicons.dev/icons?i=vim" alt="VIM" width="40" height="40"/>
-      <img src = "https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=py,java,linux,vscode,vim,stackoverflow" />
+</p>
 
 <h2 align="center"> 📫 Socials </h2>
 <p align="center"> Find me on these socials if you wish to network/collaborate with me! </p>
